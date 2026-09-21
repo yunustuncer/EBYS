@@ -8,8 +8,8 @@
 // @match        https://ebys.tkgm.gov.tr/edys-web/mainInbox.xhtml*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=gov.tr
 // @grant        none
-// @updateURL      https://raw.githubusercontent.com/tkgmplus/EBYS/refs/heads/main/ebys-plus.user.js
-// @downloadURL    https://raw.githubusercontent.com/tkgmplus/EBYS/refs/heads/main/ebys-plus.user.js
+// @updateURL      https://raw.githubusercontent.com/yunustuncer/EBYS/refs/heads/main/ebys-plus.user.js
+// @downloadURL    https://raw.githubusercontent.com/yunustuncer/EBYS/refs/heads/main/ebys-plus.user.js
 // ==/UserScript==
 
 (function () {
