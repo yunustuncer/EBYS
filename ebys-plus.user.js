@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         EBYS Plus
 // @namespace    http://tampermonkey.net/
-// @version      27.0.1
+// @version      27.0.3
 // @description  Şifreli otomatik giriş (KEP / e-imza dahil), evrak açıklama otomasyonu ve gelişmiş şablon yönetim paneli (ekle / düzenle / sil / sırala / içe-dışa aktar). Ana parola yalnızca kayıtlı bilgiler değiştirilirken istenir.
 // @author       Sen
 // @match        https://ebys.tkgm.gov.tr/edys-web/sistemeGiris.xhtml*
