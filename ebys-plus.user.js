@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         EBYS Plus (Birleşik)
 // @namespace    http://tampermonkey.net/
-// @version      29.0.0
+// @version      29.0.1
 // @description  EBYS Plus (otomatik giriş, şablonlar, çoklu dosya) + Evrak Kaşe Asistanı (PDF önizleme kontrol yazıları ve havale tablosu) tek dosyada; ortak kurulum ve ortak ayarlar.
 // @author       Sen
 // @match        https://ebys.tkgm.gov.tr/edys-web/sistemeGiris.xhtml*
