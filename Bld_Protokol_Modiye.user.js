@@ -3,11 +3,11 @@
 // @namespace    https://tampermonkey.net/
 // @version      5.1.0
 // @description  Canlı sorgu, TC/Vergi no doğrulama, kimlik maskeleme, malik özeti, tahakkuk/borç, resmî Rayiç Bedel Raporu (PDF) ve ayrıntılı tanılama günlüğü tek arayüzde.
-// @match        *://bys.belsoft.com.tr/*
-// @include      /^https?:\/\/bys\.belsoft\.com\.tr(:\d+)?\/.*$/i
+// @match        https://ebelediye.turkoglu.bel.tr/*
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
+
 
 (function () {
   'use strict';
